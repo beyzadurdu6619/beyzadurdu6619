@@ -1,15 +1,5 @@
 # Hi there, I'm Beyza! 👋
 
-<p align="center">
-  <img src="https://vercel.app" alt="Beyza's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Banner" />
-</p>
-
 ## 🚀 About Me
 I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer** focused on building intelligent systems, data-driven solutions, and web applications. 
 
@@ -22,18 +12,11 @@ I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer
 
 ## 🛠️ Tech Stack & Tools
 
-### 🐍 Data Science & AI
-* **Python**
-* **NumPy**
-* **Pandas**
-* **Scikit-Learn**
-* **Jupyter Notebook**
-
-### 💻 Web Development & Programming
-* **C / C++**
-* **Dart & Flutter**
-* **PHP**
-* **.NET & ASP.NET**
+| Area | Technologies |
+| :--- | :--- |
+| **Data Science & AI** | Python, NumPy, Pandas, Scikit-Learn, Jupyter Notebook |
+| **Web & App Dev** | C / C++, Dart, Flutter, PHP, .NET & ASP.NET |
+| **Tools & Platforms** | Git, GitHub, Kaggle |
 
 ---
 
