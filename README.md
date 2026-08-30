@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://vercel.app" alt="Beyza's GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://vercel.app" alt="Top Langs" />
 </p>
 
@@ -18,18 +20,17 @@ I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer
 ## 🛠️ Tech Stack & Tools
 
 ### 🐍 Data Science & AI
-![Python](https://shields.io)
-![📌 NumPy](https://shields.io)
-![📌 Pandas](https://shields.io)
-![📌 Scikit-Learn](https://shields.io)
-![📌 Jupyter](https://shields.io)
+* **Python**
+* **NumPy**
+* **Pandas**
+* **Scikit-Learn**
+* **Jupyter Notebook**
 
 ### 💻 Web Development & Programming
-![C](https://shields.io)
-![Dart](https://shields.io)
-![Flutter](https://shields.io)
-![PHP](https://shields.io)
-![.Net](https://shields.io)
+* **C / C++**
+* **Dart & Flutter**
+* **PHP**
+* **.NET & ASP.NET**
 
 ---
 
@@ -43,8 +44,8 @@ I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:your.email@example.com)
-[![Kaggle](https://shields.io)](https://kaggle.com)
+- 💼 **LinkedIn**: [://linkedin.com](https://://linkedin.com)
+- 📧 **Email**: your.email@example.com
+- 📊 **Kaggle**: [://kaggle.com](https://://kaggle.com)
 
 <p align="center">⭐️ From beyzadurdu619 with 💻</p>
