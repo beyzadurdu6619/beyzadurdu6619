@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://vercel.app" alt="Top Langs" />
 </p>
+<p align="center">
+  <img src="https://vercel.app" alt="Banner" />
+</p>
 
 ## 🚀 About Me
 I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer** focused on building intelligent systems, data-driven solutions, and web applications. 
