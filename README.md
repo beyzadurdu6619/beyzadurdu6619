@@ -30,8 +30,8 @@ I am a passionate **Data Scientist / Machine Learning Engineer** and **Developer
 
 ## 📫 Connect with me
 
-- 💼 **LinkedIn**: [://linkedin.com](https://://linkedin.com)
-- 📧 **Email**: your.email@example.com
-- 📊 **Kaggle**: [://kaggle.com](https://://kaggle.com)
+- 💼 **LinkedIn**: www.linkedin.com/in/beyza-durdu-125a52245
+- 📧 **Email**: beyzadurduu@gmail.com
+- 📊 **Kaggle**: [://kaggle.com]([https://://kaggle.com](https://www.kaggle.com/beyzadurduu))
 
 <p align="center">⭐️ From beyzadurdu619 with 💻</p>
